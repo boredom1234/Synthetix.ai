@@ -1,4 +1,4 @@
-# AutoGPT Website
+# AutoGPT Website 
 
 **Set Your Goals, AI Achieves Them.** You can set up the initial role and goals for your AI buddy, without human's supervision, it will automatically leverage all of the resources it has to achieve your goal.
 
